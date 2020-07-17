@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🌱 I’m currently learning Data Science;
 <p align="center">
   <img  src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47e8919723cba974ce3745352c73de740e04e7742f&rid=giphy.gif">
 </p>
+
 - 🔭 I’m currently looking for job;
 - 👯 I’m looking to collaborate on projects about chemistry;
 - 💬 Ask me about everything, if i don't know i'll search;
