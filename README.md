@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything, if i don't know i'll search;
 - 📫 Feel free to reach me by: 
 <p align="center"> 
-  <a href="https://github.com/https://github.com/LucasDatilioCarderelli" alt="GitHub">
+  <a href="https://github.com/LucasDatilioCarderelli" alt="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/lucasdatiliocarderelli/" alt="LinkedIn">
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <a href="https://wa.me/5511973033680/" alt="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a>
-  <a href="lucasdatiliocarderelli.github.io/mysite/" alt="mysite">
+  <a href="https://lucasdatiliocarderelli.github.io/mysite/" alt="mysite">
     <img src="https://img.shields.io/badge/-mysite-5b0095?style=flat-square" />
   </a>
 </p> 
