@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Data Science;
+- 🌱 I’m currently learning **Data Science**;
 <p align="center">
   <img  src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47e8919723cba974ce3745352c73de740e04e7742f&rid=giphy.gif">
 </p>
 
 - 🔭 I’m currently looking for job;
 - 👯 I’m looking to collaborate on projects about chemistry;
-- 💬 Ask me about everything, if i don't know i'll search;
+- 💬 Ask me about everything, if i don't know i'll search 😉;
 - 📫 Feel free to reach me by: 
 <p align="center"> 
   <a href="https://github.com/LucasDatilioCarderelli" alt="GitHub">
@@ -36,5 +36,8 @@ Here are some ideas to get you started:
   </a>
   <a href="https://lucasdatiliocarderelli.github.io/mysite/" alt="mysite">
     <img src="https://img.shields.io/badge/-mysite-5b0095?style=flat-square" />
+  </a>
+  <a href="https://mailto:llucascarderelli@gmail.com">
+  <img src="https://img.shields.io/badge/-llucascarderelli@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:llucascarderelli@gmail.com">
   </a>
 </p> 
