@@ -26,18 +26,18 @@ Here are some ideas to get you started:
 - 📫 Feel free to reach me by: 
 <p align="center"> 
   <a href="https://github.com/LucasDatilioCarderelli" alt="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/lucasdatiliocarderelli/" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/5511973033680/" alt="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" />
   </a>
   <a href="https://lucasdatiliocarderelli.github.io/mysite/" alt="mysite">
-    <img src="https://img.shields.io/badge/-mysite-5b0095?style=flat-square" />
+    <img src="https://img.shields.io/badge/-mysite-5b0095?style=flat" />
   </a>
   <a href="https://mailto:llucascarderelli@gmail.com">
-  <img src="https://img.shields.io/badge/-llucascarderelli@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:llucascarderelli@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
   </a>
 </p> 
