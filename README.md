@@ -33,11 +33,11 @@ Here are some ideas to get you started:
   </a>
   <a href="https://wa.me/5511973033680/" alt="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" />
+  </a> 
+  <a href="https://mailto:llucascarderelli@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
   </a>
   <a href="https://lucasdatiliocarderelli.github.io/mysite/" alt="mysite">
     <img src="https://img.shields.io/badge/-mysite-5b0095?style=flat" />
-  </a>
-  <a href="https://mailto:llucascarderelli@gmail.com">
-   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
   </a>
 </p> 
