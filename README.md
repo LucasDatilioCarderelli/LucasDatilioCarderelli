@@ -1,4 +1,6 @@
-### Hi there 👋
+# Lucas Datilio Carderelli
+
+## Hi there 👋
 
 <!--
 **LucasDatilioCarderelli/LucasDatilioCarderelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +17,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **Data Science**;
-<p align="center">
-  <img  src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47e8919723cba974ce3745352c73de740e04e7742f&rid=giphy.gif">
+<img src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47e8919723cba974ce3745352c73de740e04e7742f&rid=giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
+
+<br>
+
+<p>
+- 🌱 I’m currently learning **Data Science**; <br>
+- 🔭 I’m currently looking for job; <br>
+- 👯 I’m looking to collaborate on projects about chemistry; <br>
+- 💬 Ask me about everything, if i don't know i'll search 😉; <br>
+- 📫 Feel free to reach me by: <br>
+<br><br>
 </p>
 
-- 🔭 I’m currently looking for job;
-- 👯 I’m looking to collaborate on projects about chemistry;
-- 💬 Ask me about everything, if i don't know i'll search 😉;
-- 📫 Feel free to reach me by: 
+<br>
+
 <p align="center"> 
   <a href="https://github.com/LucasDatilioCarderelli" alt="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white" />
@@ -41,3 +49,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-mysite-5b0095?style=flat" />
   </a>
 </p> 
+
+<br><br>
+
+<p>
+<a href="https://github.com/LucasDatilioCarderelli">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDatilioCarderelli&&langs_count=3&theme=tokyonight&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/LucasDatilioCarderelli">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasDatilioCarderelli&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+</p>
