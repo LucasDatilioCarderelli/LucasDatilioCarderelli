@@ -17,22 +17,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47e8919723cba974ce3745352c73de740e04e7742f&rid=giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47e8919723cba974ce3745352c73de740e04e7742f&rid=giphy.gif" min-width="500px" max-width="500px" width="500px" align="right">
 
 <br>
 
 <p>
-- 🌱 I’m currently learning **Data Science**; <br>
-- 🔭 I’m currently looking for job; <br>
-- 👯 I’m looking to collaborate on projects about chemistry; <br>
-- 💬 Ask me about everything, if i don't know i'll search 😉; <br>
-- 📫 Feel free to reach me by: <br>
-<br><br>
+  
+I'm graduated as Chemical Engeneering and I love Science and Technologogy; So **DataScience**!
+
+- 🌱 I’m currently learning Data Science;
+- 🔭 I’m currently looking for job;
+- 👯 I’m looking to collaborate on projects about chemistry;
+- 💬 Ask me about everything, if i don't know i'll search 😉;
+- 📫 Feel free to reach me by:
+
 </p>
 
 <br>
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://github.com/LucasDatilioCarderelli" alt="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white" />
   </a>
