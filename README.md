@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p>
   
-I'm graduated as Chemical Engeneering and I love Science and Technologogy; So **DataScience**!
+I'm graduated as Chemical Engineering and I love Science and Technology; So **DataScience**!
 
 - 🌱 I’m currently learning Data Science;
 - 🔭 I’m currently looking for job;
