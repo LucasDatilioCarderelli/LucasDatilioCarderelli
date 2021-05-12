@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p>
+<p>  
   
 I'm graduated as Chemical Engineering and I love Science and Technology; So **DataScience**!
 
@@ -35,10 +35,17 @@ I'm graduated as Chemical Engineering and I love Science and Technology; So **Da
 
 <br>
 
-<p align="left"> 
+<p align="center"> 
+  
   <a href="https://github.com/LucasDatilioCarderelli" alt="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white" />
   </a>
+    <a href="https://medium.com/@llucascarderelli" alt="medium">
+    <img src="https://img.shields.io/badge/-Medium-fff?style=flat&logo=Medium&logoColor=black" />
+  </a>
+  <a href="https://lucasdatiliocarderelli.github.io/mysite/" alt="mysite">
+    <img src="https://img.shields.io/badge/-MySite-5b0095?style=flat&logo=Google&logoColor=white" />
+  </a> <br>
   <a href="https://www.linkedin.com/in/lucasdatiliocarderelli/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
@@ -48,12 +55,7 @@ I'm graduated as Chemical Engineering and I love Science and Technology; So **Da
   <a href="https://mailto:llucascarderelli@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://medium.com/@llucascarderelli" alt="medium">
-    <img src="https://img.shields.io/badge/-Medium-fff?style=flat&logo=Medium&logoColor=black" />
-  </a>
-  <a href="https://lucasdatiliocarderelli.github.io/mysite/" alt="mysite">
-    <img src="https://img.shields.io/badge/-MySite-5b0095?style=flat&logo=Google&logoColor=white" />
-  </a>
+  
 </p>
 
 <br><br>
