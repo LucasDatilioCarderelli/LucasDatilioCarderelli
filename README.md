@@ -46,12 +46,15 @@ I'm graduated as Chemical Engineering and I love Science and Technology; So **Da
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" />
   </a> 
   <a href="https://mailto:llucascarderelli@gmail.com">
-   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
+   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@llucascarderelli" alt="medium">
+    <img src="https://img.shields.io/badge/-Medium-fff?style=flat&logo=Medium&logoColor=black" />
   </a>
   <a href="https://lucasdatiliocarderelli.github.io/mysite/" alt="mysite">
-    <img src="https://img.shields.io/badge/-mysite-5b0095?style=flat" />
+    <img src="https://img.shields.io/badge/-MySite-5b0095?style=flat&logo=Google&logoColor=white" />
   </a>
-</p> 
+</p>
 
 <br><br>
 
