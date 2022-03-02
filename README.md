@@ -67,7 +67,7 @@ I'm graduated as Chemical Engineering and I love Science and Technology: <br> So
 </p>
 
 <p>
-<img align="left" height=208 src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdatiliocarderelli&show_icons=true&theme=tokyonight&title_color=fdcc00&text_color=00d2d4&hide_border=true&locale=en&layout=compact" alt="lucasdatiliocarderelli" /></p>
+<img align="left" height=200 width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdatiliocarderelli&show_icons=true&theme=tokyonight&title_color=fdcc00&text_color=00d2d4&hide_border=true&locale=en&layout=compact" alt="lucasdatiliocarderelli" /></p>
 
-<img align="right" height=208 src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdatiliocarderelli&show_icons=true&theme=tokyonight&title_color=fdcc00&text_color=00d2d4&hide_border=true&locale=en&layout=compact" alt="lucasdatiliocarderelli" /></p>
+<img align="right" height=200 width=47% src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdatiliocarderelli&show_icons=true&theme=tokyonight&title_color=fdcc00&text_color=00d2d4&hide_border=true&locale=en&layout=compact" alt="lucasdatiliocarderelli" /></p>
 </p>
