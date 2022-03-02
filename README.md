@@ -4,9 +4,9 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lucasdatiliocarderelli&label=Profile%20views&color=00d2d4&style=plastic" alt="lucasdatiliocarderelli">
-	<a href="https://github.com/LucasDatilioCarderelli" alt="login intra">
-    	<img src="https://img.shields.io/badge/-ldatilio-gray?style=flat&logo=42&logoColor=white" />
-	</a>
+    <a href="https://github.com/LucasDatilioCarderelli" alt="login intra">
+    <img src="https://img.shields.io/badge/-ldatilio-gray?style=flat&logo=42&logoColor=white" />
+    </a>
 </p>
 
 <img width="400px" align="right" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47e8919723cba974ce3745352c73de740e04e7742f&rid=giphy.gif">
@@ -67,7 +67,7 @@ I'm graduated as Chemical Engineering and I love Science and Technology: <br> So
 </p>
 
 <p>
-<img align="left" height=200 width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdatiliocarderelli&show_icons=true&theme=tokyonight&title_color=fdcc00&text_color=00d2d4&hide_border=true&locale=en&layout=compact" alt="lucasdatiliocarderelli" /></p>
+<img align="left" height=200 width=43% src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdatiliocarderelli&show_icons=true&theme=tokyonight&title_color=fdcc00&text_color=00d2d4&hide_border=true&locale=en&layout=compact" alt="lucasdatiliocarderelli" /></p>
 
-<img align="right" height=200 width=47% src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdatiliocarderelli&show_icons=true&theme=tokyonight&title_color=fdcc00&text_color=00d2d4&hide_border=true&locale=en&layout=compact" alt="lucasdatiliocarderelli" /></p>
+<img align="right" height=200 width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdatiliocarderelli&show_icons=true&theme=tokyonight&title_color=fdcc00&text_color=00d2d4&hide_border=true&locale=en&layout=compact" alt="lucasdatiliocarderelli" /></p>
 </p>
